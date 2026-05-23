@@ -2,7 +2,7 @@
 
 一个基于 **Java Swing** 开发的桌面收据管理工具，支持用户登录、收据填写、金额自动转换大写、历史记录保存、生成图片/PDF 等功能。
 
-![系统截图](screenshot.png)
+<img src="screenshot.png" alt="游戏截图" width="500"> 
 
 ##  功能特点
 
