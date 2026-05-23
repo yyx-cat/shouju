@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: 
+Class-Path: itext-asian-5.2.0.jar itextpdf-5.5.13.3.jar
+
